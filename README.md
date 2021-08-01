@@ -14,6 +14,6 @@ test acc: 0.9237847243901343
  ![result](./result.png?raw=true)
 
 ## Authors:
-- [Regev Aloni](https://www.linkedin.com/in/aloniregev)
+- [Regev Aloni](https://github.com/AloniRegev)
 - [Husam Lucia](https://www.linkedin.com/in/husam-lucia-6841b51a3)
 
